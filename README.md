@@ -1,4 +1,4 @@
-# api-testing-postman
+# **Swagger Petstore API** (`collections/Swagger_Petstore.postman_collection.json`)
 
 ## What I Tested
 - **POST /pet** → Create new pet
